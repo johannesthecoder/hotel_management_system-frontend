@@ -1,0 +1,11 @@
+{
+  "editor.fontFamily": "Ubuntu Mono",
+  "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+  "scm.inputFontFamily": "default",
+  "editor.fontWeight": "normal",
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "Hotelsdotcom",
+    "raya"
+  ],
+}
